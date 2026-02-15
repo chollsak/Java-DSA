@@ -1,4 +1,4 @@
-package Data_Stucture.Stack;
+package Data_Structure.Stack;
 
 import java.util.ArrayList;
 
