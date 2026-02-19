@@ -1,7 +1,5 @@
 package Algorithm.BinarySearch;
 
-//import java.util.Arrays;
-
 public class Main {
 
     public static int binarySearch(int[] array, int target){
